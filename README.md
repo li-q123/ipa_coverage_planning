@@ -1,3 +1,14 @@
+编译问题参考博客：
+
+ROS全覆盖规划算法 Coverage Path Planning 采坑
+https://blog.csdn.net/weixin_42179076/article/details/121164350
+
+全覆盖规划算法Coverage Path Planning开源代码ipa_coverage_planning编译
+https://blog.csdn.net/ktigerhero3/article/details/121562049?spm=1001.2014.3001.5501
+
+ROS全覆盖规划算法逻辑整理笔记
+https://blog.csdn.net/DAKESLON/article/details/114088190
+
 # ipa_coverage_planning
 Algorithms for floor plan segmentation and systematic coverage driving patterns.
 
